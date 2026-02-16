@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Kyle
 
-**Founder · Builder · Strategist**
-
 Currently building things that shouldn't exist yet. Working across AI agents, 
 personality systems, and tools for human connection.
 
