@@ -16,8 +16,6 @@ Argue about results.
 ### [Plexality](https://plexality.com) — *Relationship intelligence platform*
 Helping people understand themselves and connect better.
 
-### [kcwebsite](https://kylecrone.com) — *This website you're looking at*
-
 ## 🛠️ How I Work
 
 **Big-picture first, then deep.** I connect ideas across domains and build 
