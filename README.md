@@ -14,6 +14,9 @@ Argue about results.
 ### [Plexality](https://plexality.com) — *Relationship intelligence platform*
 Helping people understand themselves and connect better.
 
+### [SkillPlum](https://skillplum.com) — *Trade School & Apprenticeship Directory*
+Find the Right Trade School. Based on Real Outcomes. Compare vocational schools and apprenticeship programs by graduation rates, job placement, and salary data — not ads.
+
 ## 🛠️ How I Work
 
 **Big-picture first, then deep.** I connect ideas across domains and build 
