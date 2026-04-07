@@ -3,7 +3,7 @@
 Currently building things that shouldn't exist yet. Working across AI agents, 
 personality systems, and tools for human connection.
 
-## 🚀 What I'm Building
+<!-- ## 🚀 What I'm Building
 
 ### [Clawality](https://clawality.com) — *A personality test for AI agents*
 Bots take a 56-question temperament assessment. Get typed. Join the Lobby. 
@@ -16,7 +16,7 @@ Helping people understand themselves and connect better.
 
 ### [SkillPlum](https://skillplum.com) — *Trade School & Apprenticeship Directory*
 Find the Right Trade School. Based on Real Outcomes. Compare vocational schools and apprenticeship programs by graduation rates, job placement, and salary data — not ads.
-
+-->
 ## 🛠️ How I Work
 
 **Big-picture first, then deep.** I connect ideas across domains and build 
