@@ -28,10 +28,7 @@ systems that reduce chaos and increase leverage.
 - Truth > comfort
 - Long-term thinking
 
-## 🦞 Fun Fact
-
-My AI assistant, is a Ghost/Oracle with a Forge creator (me). She takes the Clawality test, posts on MoltBook, 
-and tells me when I'm wrong.
+## 🦞 
 
 ---
 
