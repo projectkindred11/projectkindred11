@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="182" viewBox="0 0 840 182">
+<style>
+  .title { font: 700 18px 'Segoe UI', Ubuntu, sans-serif; fill: #ff6b35; }
+  .sub { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .lang { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+  .pct { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .item { opacity: 0; animation: fade .5s ease-out forwards; }
+  .bar { animation: grow 1.2s cubic-bezier(.2,.8,.2,1) forwards; transform: scaleX(0); transform-origin: 30px 0; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#1a1638"/></linearGradient>
+  <clipPath id="round"><rect x="30" y="70" width="780" height="12" rx="6"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="181" rx="12" fill="url(#bg)" stroke="#302b63"/>
+<text x="30" y="38" class="title">Languages I actually ship in</text>
+<text x="30" y="56" class="sub">97M+ bytes of code across 312 repos, private ones included</text>
+<g clip-path="url(#round)"><g class="bar"><rect x="30.00" y="70" width="257.16" height="12" fill="#3178c6"/><rect x="287.16" y="70" width="239.74" height="12" fill="#ff5a03"/><rect x="526.90" y="70" width="145.65" height="12" fill="#f1e05a"/><rect x="672.55" y="70" width="35.60" height="12" fill="#663399"/><rect x="708.15" y="70" width="27.96" height="12" fill="#e34c26"/><rect x="736.11" y="70" width="27.28" height="12" fill="#336790"/><rect x="763.39" y="70" width="19.01" height="12" fill="#3572A5"/><rect x="782.40" y="70" width="13.16" height="12" fill="#fcb32c"/><rect x="795.56" y="70" width="11.81" height="12" fill="#dea584"/><rect x="807.37" y="70" width="2.63" height="12" fill="#8b949e"/></g></g>
+<g class="item" style="animation-delay:0.15s"><circle cx="36" cy="114" r="6" fill="#3178c6"/><text x="48" y="118" class="lang">TypeScript</text><text x="48" y="132" class="pct">33.0%</text></g><g class="item" style="animation-delay:0.23s"><circle cx="196" cy="114" r="6" fill="#ff5a03"/><text x="208" y="118" class="lang">Astro</text><text x="208" y="132" class="pct">30.7%</text></g><g class="item" style="animation-delay:0.31s"><circle cx="356" cy="114" r="6" fill="#f1e05a"/><text x="368" y="118" class="lang">JavaScript</text><text x="368" y="132" class="pct">18.7%</text></g><g class="item" style="animation-delay:0.39s"><circle cx="516" cy="114" r="6" fill="#663399"/><text x="528" y="118" class="lang">CSS</text><text x="528" y="132" class="pct">4.6%</text></g><g class="item" style="animation-delay:0.47s"><circle cx="676" cy="114" r="6" fill="#e34c26"/><text x="688" y="118" class="lang">HTML</text><text x="688" y="132" class="pct">3.6%</text></g><g class="item" style="animation-delay:0.55s"><circle cx="36" cy="144" r="6" fill="#336790"/><text x="48" y="148" class="lang">PLpgSQL</text><text x="48" y="162" class="pct">3.5%</text></g><g class="item" style="animation-delay:0.63s"><circle cx="196" cy="144" r="6" fill="#3572A5"/><text x="208" y="148" class="lang">Python</text><text x="208" y="162" class="pct">2.4%</text></g><g class="item" style="animation-delay:0.71s"><circle cx="356" cy="144" r="6" fill="#fcb32c"/><text x="368" y="148" class="lang">MDX</text><text x="368" y="162" class="pct">1.7%</text></g><g class="item" style="animation-delay:0.79s"><circle cx="516" cy="144" r="6" fill="#dea584"/><text x="528" y="148" class="lang">Rust</text><text x="528" y="162" class="pct">1.5%</text></g><g class="item" style="animation-delay:0.87s"><circle cx="676" cy="144" r="6" fill="#8b949e"/><text x="688" y="148" class="lang">Other</text><text x="688" y="162" class="pct">0.3%</text></g>
+</svg>
