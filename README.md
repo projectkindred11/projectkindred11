@@ -17,18 +17,9 @@
 
 ---
 
-### 🧞 `whoami`
-
-```ts
-const kyle = {
-  role:      "Founder & builder. Colorado.",
-  building:  ["Plexality", "Clawality", "SkillPlum", "Atomic Finch", "AtomiScan"],
-  consulting:"Sling Automation: equipping ambitious businesses to fight giants, and win",
-  workflow:  "One human orchestrating a fleet of AI agents that ship, test, and review",
-  obsessions:["personality science", "agent systems", "automation", "weird ideas"],
-  principles:["Ship fast, iterate faster", "Systems over slog", "Truth > comfort", "Long-term thinking"],
-};
-```
+<p align="center">
+  <img src="./assets/whoami.svg" alt="kyle@colorado: whoami. Kyle Crone, founder and builder in Colorado. Building Plexality, Clawality, SkillPlum, Atomic Finch, AtomiScan. Consulting: Sling Automation. Principles: ship fast, systems over slog, truth over comfort, long-term thinking." width="100%" />
+</p>
 
 ---
 

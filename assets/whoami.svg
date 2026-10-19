@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="378" viewBox="0 0 840 378" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SF Mono', Menlo, monospace" font-size="14">
+<style>
+  .usr { fill: #a855f7; font-weight: 700; }
+  .path { fill: #58a6ff; font-weight: 700; }
+  .pr { fill: #8b949e; }
+  .cmd { fill: #e6edf3; font-weight: 600; }
+  .out { fill: #c9d1d9; }
+  .hi { fill: #ff6b35; font-weight: 700; }
+  .acc { fill: #ffd23f; font-weight: 700; }
+  .dir { fill: #58a6ff; font-weight: 600; }
+  .ok { fill: #3fb950; font-weight: 700; }
+  .title { fill: #8b949e; font-size: 12px; }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161230"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#302b63"/><stop offset="1" stop-color="#ff6b35"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="838" height="376" rx="12" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.5"/>
+<rect x="1" y="1" width="838" height="36" rx="12" fill="#161b22"/>
+<rect x="1" y="25" width="838" height="12" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text x="420.0" y="23" text-anchor="middle" class="title">kyle@colorado: ~ (zsh)</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/><text x="28" y="70"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text></g>
+<clipPath id="c1"><rect x="179.20000000000002" y="54" height="22" width="0"><animate attributeName="width" from="0" to="54.4" begin="0.55s" dur="0.27s" fill="freeze"/></rect></clipPath><text x="179.20000000000002" y="70" class="cmd" clip-path="url(#c1)">whoami</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.07s" dur="0.3s" fill="freeze"/><text x="28" y="92" xml:space="preserve"><tspan class="hi">Kyle Crone</tspan><tspan class="out">. Founder &amp; builder. Colorado.</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.54s" fill="freeze"/><text x="28" y="122"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text></g>
+<clipPath id="c4"><rect x="179.20000000000002" y="106" height="22" width="0"><animate attributeName="width" from="0" to="113.2" begin="1.69s" dur="0.59s" fill="freeze"/></rect></clipPath><text x="179.20000000000002" y="122" class="cmd" clip-path="url(#c4)">ls ~/building</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.53s" dur="0.3s" fill="freeze"/><text x="28" y="144" xml:space="preserve"><tspan class="dir">plexality/   clawality/   skillplum/   atomic-finch/   atomiscan/</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.00s" fill="freeze"/><text x="28" y="174"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text></g>
+<clipPath id="c7"><rect x="179.20000000000002" y="158" height="22" width="0"><animate attributeName="width" from="0" to="155.2" begin="3.15s" dur="0.82s" fill="freeze"/></rect></clipPath><text x="179.20000000000002" y="174" class="cmd" clip-path="url(#c7)">cat consulting.txt</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.22s" dur="0.3s" fill="freeze"/><text x="28" y="196" xml:space="preserve"><tspan class="hi">Sling Automation</tspan><tspan class="out"> -&gt; equipping ambitious businesses to fight giants, and win.</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.69s" fill="freeze"/><text x="28" y="226"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text></g>
+<clipPath id="c10"><rect x="179.20000000000002" y="210" height="22" width="0"><animate attributeName="width" from="0" to="121.6" begin="4.84s" dur="0.64s" fill="freeze"/></rect></clipPath><text x="179.20000000000002" y="226" class="cmd" clip-path="url(#c10)">echo $WORKFLOW</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.73s" dur="0.3s" fill="freeze"/><text x="28" y="248" xml:space="preserve"><tspan class="acc">1 human</tspan><tspan class="out"> + a fleet of AI agents that ship, test, review, and open PRs before I wake up.</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="6.20s" fill="freeze"/><text x="28" y="278"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text></g>
+<clipPath id="c13"><rect x="179.20000000000002" y="262" height="22" width="0"><animate attributeName="width" from="0" to="155.2" begin="6.35s" dur="0.82s" fill="freeze"/></rect></clipPath><text x="179.20000000000002" y="278" class="cmd" clip-path="url(#c13)">cat principles.txt</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.42s" dur="0.3s" fill="freeze"/><text x="28" y="300" xml:space="preserve"><tspan class="ok">✓ </tspan><tspan class="out">Ship fast, iterate faster      </tspan><tspan class="ok">✓ </tspan><tspan class="out">Systems over slog</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="7.54s" dur="0.3s" fill="freeze"/><text x="28" y="322" xml:space="preserve"><tspan class="ok">✓ </tspan><tspan class="out">Truth &gt; comfort                </tspan><tspan class="ok">✓ </tspan><tspan class="out">Long-term thinking</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="8.01s" fill="freeze"/><text x="28" y="352"><tspan class="usr">kyle@colorado</tspan> <tspan class="path">~</tspan> <tspan class="pr">$</tspan></text><rect x="179.20000000000002" y="338" width="9" height="17" fill="#ff6b35"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
